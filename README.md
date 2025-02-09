@@ -1,4 +1,4 @@
-# Analyse-de-la-Qualit-des-Eaux-Souterraines
+# Analyse-de-la-Qualite-des-Eaux-Souterraines
 
 Description
 Ce projet vise à analyser la qualité des eaux souterraines dans une région du Nord du Maroc en utilisant trois indices de qualité de l'eau (IQEs) différents. Les données ont été collectées à partir de neuf puits entre 2016 et 2017.
@@ -20,7 +20,7 @@ pip (gestionnaire de paquets Python)
 
 Configuration de l'environnement
 bashCopy# Cloner le repository
-git clone https://github.com/serrhiniabdellah/Analyse-de-la-Qualit-des-Eaux-Souterraines.git
+git clone https://github.com/serrhiniabdellah/Analyse-de-la-Qualite-des-Eaux-Souterraines.git
 cd Analyse-de-la-Qualit-des-Eaux-Souterraines
 
 # Créer un environnement virtuel
@@ -44,13 +44,20 @@ jupyter==1.0.0
 
 Structure du projet
 
-Analyse-de-la-Qualit-des-Eaux-Souterraines
+Analyse-de-la-Qualite-des-Eaux-Souterraines
+
 ├── data/
+
 │   ├── WaterQuality.xlsx
+
 │   └── Parametres.xlsx
+
 ├── notebooks/
+
 │   └── analyse_qualite_eau.ipynb
+
 ├── requirements.txt
+
 └── README.md
 
 Utilisation
